@@ -7,21 +7,27 @@
 ## 🛠 Skills and Technologies
 
 ### 🖥️ Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2b%2b)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+<div style="display: inline">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div><br/>
 
 ### 📚 Frameworks and Libraries
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+<div style="display: inline">
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div><br/>
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+<div style="display: inline">
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img align="center" alt="vs code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img align="center" alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</div><br/>
 
 ## GitHub Stats ⚡
 <div>
