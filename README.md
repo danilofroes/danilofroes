@@ -26,8 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilofroes/)
 [![Gmail](https://img.shields.io/badge/-engdanilofroes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:engdanilofroes@gmail)](mailto:engdanilofroes@gmail)
 
-![Snake animation](https://github.com/danilofroes/danilofroes/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **danilofroes/danilofroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
