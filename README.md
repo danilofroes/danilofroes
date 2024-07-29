@@ -1,8 +1,10 @@
-### 👋 Hi! Welcome to my Github profile.
-### My name is Danilo, but some people know me by my last name, Fróes!
+### 👋 Hi, I'm Danilo Fróes!
+### Welcome to my GitHub profile!
+
 - Engineering student at the Federal University of Rio de Janeiro - UFRJ.
 - Passionate about technology in general, especially programming and robotics.
 - Member of the competition team Minerva Bots at UFRJ, working in the electronics and programming areas on the Mini Sumo and 3kg Sumo projects.
+- Technician in Digital Game Programming through the Technical High School program at Firjan SESI/SENAI.
 
 ## 🛠 Skills and Technologies
 
