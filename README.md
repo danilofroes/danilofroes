@@ -3,7 +3,7 @@
 
 - Engineering student at the Federal University of Rio de Janeiro - UFRJ.
 - Passionate about technology in general, especially programming and robotics.
-- Member of the competition team Minerva Bots at UFRJ, working in the electronics and programming areas on the Mini Sumo and 3kg Sumo projects.
+- Member of the competition team Minerva Bots at UFRJ, working in the electronics and programming areas on the Mini Sumo and Trekking projects.
 - Technician in Digital Game Programming through the Technical High School program at Firjan SESI/SENAI.
 
 ## 🛠 Skills and Technologies
@@ -12,13 +12,12 @@
 <div style="display: inline">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
 ### 📚 Frameworks and Libraries
 <div style="display: inline">
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div><br/>
 
 ### 🛠️ Tools
@@ -27,7 +26,6 @@
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img align="center" alt="vs code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img align="center" alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
