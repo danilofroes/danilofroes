@@ -42,7 +42,7 @@
 </div>
     
 ## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilofroes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodavi/)
 [![Gmail](https://img.shields.io/badge/-engdanilofroes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:engdanilofroes@gmail)](mailto:engdanilofroes@gmail)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danilofroes)
 
