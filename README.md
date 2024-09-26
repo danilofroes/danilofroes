@@ -1,10 +1,11 @@
 ### 👋 Hi, I'm Danilo Fróes!
 ### Welcome to my GitHub profile!
 
-- Engineering student at the Federal University of Rio de Janeiro - UFRJ.
+- Engineering student at the Federal University of Rio de Janeiro (UFRJ).
 - Passionate about technology in general, especially programming and robotics.
 - Member of the competition team Minerva Bots at UFRJ, working in the electronics and programming areas on the Mini Sumo and Trekking projects.
 - Technician in Digital Game Programming through the Technical High School program at Firjan SESI/SENAI.
+- Scientific researcher at the Laboratory of Simulation and Optimization of Productive Systems (LASOS) at the National Institute of Technology (INT), contributing to a technological initiation project focused on Machine Learning.
 
 ## 🛠 Skills and Technologies
 
