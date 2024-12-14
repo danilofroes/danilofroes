@@ -54,4 +54,4 @@
 [![Gmail](https://img.shields.io/badge/-engdanilofroes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:engdanilofroes@gmail)](mailto:engdanilofroes@gmail)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danilofroes)
 
-<img src="https://raw.githubusercontent.com/danilofroes/danilofroes/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/danilofroes/danilofroes/blob/output/github-snake-dark.svg)
