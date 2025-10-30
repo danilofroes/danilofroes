@@ -18,28 +18,34 @@
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
-### 🌐 Web Development
+### 🤖 Embedded Systems & Robotics
 <div style="display: inline">
+  <img align="center" alt="pcb design" src="https://img.shields.io/badge/PCB%20Design-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img align="center" alt="esp32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img align="center" alt="circuit electronics" src="https://img.shields.io/badge/Circuit%20Electronics-00599C?style=for-the-badge&logo=eagle&logoColor=white" />
+</div><br/>
+
+### 🌐 Frameworks & Dev
+<div style="display: inline">
+  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-### 📚 Frameworks and Libraries
-<div style="display: inline">
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img align="center" alt="json" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div><br/>
-
 ### 🧠 AI & Data Science
 <div style="display: inline">
-  <img align="center" alt="machine learning" src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div><br/>
 
-### 🛠️ Tools
+### 🛠️ Tools & OS
 <div style="display: inline">
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="makefiles" src="https://img.shields.io/badge/Makefiles-000000?style=for-the-badge&logo=gnu-make&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img align="center" alt="vs code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=codeium&logoColor=white" />
