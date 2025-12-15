@@ -59,10 +59,10 @@
 <div>
   <a href="https://github.com/danilofroes">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilofroes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofroes&layout=compact&langs_count=7&theme=midnight-purple"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/> 
   </center>
 </div>
     
