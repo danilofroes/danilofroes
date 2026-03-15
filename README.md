@@ -19,13 +19,13 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
 
 ### 🤖 Embedded Systems & Robotics
 <div style="display: inline">
-  <img src="https://img.shields.io/badge/SolidWorks-D32D41?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D_Printing-0096D6?style=for-the-badge&logo=bambulab&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB_Design-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32 (ESP IDF)-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Circuit%20Electronics-00599C?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-D32D41?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Printing-0096D6?style=for-the-badge&logo=bambulab&logoColor=white" />
 </div><br/>
 
 ### 🧠 AI & Data Science
