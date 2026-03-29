@@ -13,6 +13,7 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
 <div style="display: inline">
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
@@ -22,6 +23,7 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
   <img src="https://img.shields.io/badge/ESP32 (ESP IDF)-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F6822B?style=for-the-badge&logo=PlatformIO&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB_Design-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Circuit%20Electronics-00599C?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidWorks-D32D41?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
