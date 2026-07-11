@@ -23,6 +23,7 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
 <div style="display: inline">
   <img src="https://img.shields.io/badge/ESP32 (ESP IDF)-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-43B02A?style=for-the-badge&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/PlatformIO-F6822B?style=for-the-badge&logo=PlatformIO&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB_Design-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
@@ -33,6 +34,8 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
 
 ### 🧠 AI & Data Science
 <div style="display: inline">
+  <img align="center" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img align="center" alt="torchsharp" src="https://img.shields.io/badge/TorchSharp-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -45,17 +48,23 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div><br/>
 
-### 🛠️ Tools & OS
+### 🎛️ Tooling & Operating Systems
 <div style="display: inline">
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="cmake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img align="center" alt="makefiles" src="https://img.shields.io/badge/Makefiles-000000?style=for-the-badge&logo=gnu-make&logoColor=white" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img align="center" alt="vs code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=codeium&logoColor=white" />
+</div><br/>
+
+### 🛠️ Others
+<div style="display: inline">
   <img align="center" alt="altium" src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img align="center" alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </div><br/>
