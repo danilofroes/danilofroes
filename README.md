@@ -73,10 +73,10 @@ Welcome to my GitHub! I am an engineer passionate about **Robotics**, **Embedded
 <div>
   <a href="https://github.com/danilofroes">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="centered image">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/> 
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=danilofroes&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/> 
   </center>
 </div>
     
